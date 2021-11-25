@@ -1,4 +1,4 @@
-## Tenda AC18 formsetUsbUnload CMD Injection
+## Tenda AC18 CMD Injection
 
 Vulnerability for Tenda AC18 Router AC1900 Smart Dual-Band Gigabit WiFi Router
 
